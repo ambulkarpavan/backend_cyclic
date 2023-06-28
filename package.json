@@ -1,0 +1,24 @@
+{
+  "name": "backend_cyclic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambulkarpavan/backend_cyclic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambulkarpavan/backend_cyclic/issues"
+  },
+  "homepage": "https://github.com/ambulkarpavan/backend_cyclic#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
